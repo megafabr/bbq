@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rails', '~> 5.2.4'
 
+gem 'twitter-bootstrap-rails'
+
 #gem 'ruby', '>= 2.5.0'
 
 #gem 'puma', '~> 4.3.1'
